@@ -1,0 +1,12 @@
+{
+  "name": "4ppst0r3 for LiveContainer",
+  "short_name": "4ppst0r3",
+  "description": "Browse apps from your LiveContainer sources.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "icons": [
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
